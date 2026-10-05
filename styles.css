@@ -26,3 +26,14 @@ p{
   gap: 1.5rem;
   padding: 1rem 2rem;
 }   
+}   
+.card {
+  background-color: #700707;
+  border: 2px solid #1236d8;      /* Border requirement */
+  border-radius: 8px;
+  padding: 1.5rem;                 /* Padding requirement */
+  margin: 0.5rem;                  /* Margin requirement */
+  flex: 1 1 250px;
+  max-width: 320px;
+  box-shadow: 0 4px 6px rgba(212, 131, 9, 0.05);
+}
