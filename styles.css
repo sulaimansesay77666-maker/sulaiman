@@ -14,11 +14,6 @@ p{
     color: #7528d3;
     font-size: 20px;
 }
-.like{
-    color: #299c19;
-    font-size: 20px;
-    border: 2px solid #1ed47f;
-}
 .card-container {
   display: flex;
   flex-wrap: wrap;
