@@ -21,10 +21,8 @@ p{
 }
 .card-container {
   display: flex;
-  justify-content: space-around;
   flex-wrap: wrap;
   gap: 1.5rem;
-  padding: 1rem 2rem;
 }
 }   
 .card {
