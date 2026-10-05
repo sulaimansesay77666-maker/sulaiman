@@ -1,6 +1,6 @@
 body{
     background-color: #cfa5eb;
-    front-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1{
     color: #d2e4a2;
@@ -14,3 +14,15 @@ p{
     color: #7528d3;
     font-size: 20px;
 }
+.like{
+    color: #299c19;
+    font-size: 20px;
+    border: 2px solid #1ed47f;
+}
+.card-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 1rem 2rem;
+}   
